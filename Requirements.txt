@@ -1,7 +1,5 @@
 streamlit==1.28.1
-sqlite3
 pandas==2.0.3
 fpdf2==2.7.4
-plotly
-fpfd2
 python-dateutil==2.8.2
+plotly
